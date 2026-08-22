@@ -1,0 +1,10 @@
+title: 또자?
+description: 소셜 알람 앱 또자?의 공개 문서
+lang: ko
+theme: minima
+
+defaults:
+  - scope:
+      path: ''
+    values:
+      layout: page
